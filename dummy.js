@@ -3,6 +3,18 @@ var token = vishnu_ppZ67
 var SECRET_TOKEN=example_token123
 var API_KEY=example_api_key456
 var PASSWORD=example_password789
+var key1="-----BEGIN OPENSSH PRIVATE KEY-----
+cTrx9VGoMgJGUjChtcSkfWfUbHw/+t2Xz4b1uF03sUwZfYn7Xs4yoCQ9vSnPJbTJ
+TtbjAwAAN2DiUljUcZ3vm3lnMDJ1XX72sn/Bw+g1u9kiV7Rg/qSuhPVbLYrlNnbT
+NWEepi9xigxSSlC2VZLZkH+O7DZL3CQLB5e2j9pG8tMjDJfl9bMw8IbCykJuuyuU
+BbUmMprNI8rL56QUaQwNJqzbE9G6WzCpzwwD6Cm9aBo7hHXwNQlQjQrKvqg53dmz
+Q7HQCV3moJffEzV7aP6TWZvjok1y6CX4a2r6+5zny6Pt11oAwR55ZL8xMsnebIYv
+0zWp0IznpJR6VYQfumquWl1gIlnx+ubexre1zqlyftgCtWqJeO88szS7bAq3txhs
+3aJ2dXZJWlI1fBEnXOV6jQdAf7tNm7jtIyOeLZouTxDzWrM2g4xnuR3SgTc3eZ7C
+WFCWio4XfR5YjS1F/kkgp5e8W8Zl5w4aJ07KFavZu/WuGxT1foj6Sk+6IFRZdyG5
+VtPczBeo9Zle4Y5P5RlnDx8vD3UKd0E6MfbwA+iBEGlCgDsjHgHd46irFhGtgriZ
+Db05zQjyVUkJRYKx1tSKx+rgV+4wT3xLfZmQd4fIc7/eg==
+-----END OPENSSH PRIVATE KEY-----"
 var dummy_info = {
   // Customer module configs
   "users": [
