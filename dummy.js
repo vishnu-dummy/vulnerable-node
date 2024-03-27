@@ -40,6 +40,28 @@ Db05zQjyVUkJRYKx1tSKx+rgV+4wT3xLfZmQd4fIc7/eg==
 -----END OPENSSH PRIVATE KEY-----"
 
 var dbUrl= "mongodb://myusername:mypassword@cluster0.mongodb.net:27017/mydatabase"
+
+# Custom API keys or tokens
+MY_CUSTOM_API_KEY=abc123xyz456
+SPECIAL_API_TOKEN=secret_token_789
+
+# Internal URLs or endpoints
+DEV_INTERNAL_API=http://dev.internal-api.example.com
+PROD_DB_ENDPOINT=postgres://prod-db.example.com:5432/mydatabase
+
+# Configuration settings
+SECRET_ENCRYPTION_KEY=my_secret_encryption_key
+CUSTOM_DB_CONNECTION_STRING=jdbc:mysql://custom-db.example.com:3306/mydatabase
+
+# Custom secrets or credentials
+SUPER_SECRET_KEY=super_secret_key_value
+USER_CREDENTIALS=admin:admin@123
+
+# License keys or activation codes
+DEMO_LICENSE_KEY=DEMO-123-456-789
+TEST_ACTIVATION_CODE=TEST-ABC-DEF-123
+
+
 var dummy_info = {
   // Customer module configs
   "users": [
