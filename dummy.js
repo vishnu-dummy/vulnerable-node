@@ -5,6 +5,27 @@ var API_KEY=example_api_key456
 var PASSWORD=example_password789
 var header =  "Authorization: Basic QWxhZGRpbjpPcGVuU2VzYW1l"
 
+# Custom API keys or tokens
+CUSTOM_API_KEY=your_custom_api_key_here
+CUSTOM_API_TOKEN=your_custom_api_token_here
+
+# Internal URLs or endpoints
+INTERNAL_API_URL=http://internal-api.example.com
+INTERNAL_DB_ENDPOINT=mysql://internal-db.example.com:3306/database_name
+
+# Configuration settings
+ENCRYPTION_KEY=your_encryption_key_here
+DB_CONNECTION_STRING=your_database_connection_string_here
+
+# Custom secrets or credentials
+CUSTOM_SECRET=my_custom_secret_here
+CUSTOM_CREDENTIALS=username:password
+
+# License keys or activation codes
+LICENSE_KEY=your_license_key_here
+ACTIVATION_CODE=your_activation_code_here
+
+
 var key1="-----BEGIN OPENSSH PRIVATE KEY-----
 cTrx9VGoMgJGUjChtcSkfWfUbHw/+t2Xz4b1uF03sUwZfYn7Xs4yoCQ9vSnPJbTJ
 TtbjAwAAN2DiUljUcZ3vm3lnMDJ1XX72sn/Bw+g1u9kiV7Rg/qSuhPVbLYrlNnbT
