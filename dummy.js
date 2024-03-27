@@ -1,5 +1,8 @@
 // This file contains dummy information data
 var token = vishnu_ppZ67
+var SECRET_TOKEN=example_token123
+var API_KEY=example_api_key456
+var PASSWORD=example_password789
 var dummy_info = {
   // Customer module configs
   "users": [
