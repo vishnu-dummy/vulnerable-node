@@ -1,5 +1,5 @@
 // This file contains dummy information data
-
+var token = vishnu_ppZ67
 var dummy_info = {
   // Customer module configs
   "users": [
