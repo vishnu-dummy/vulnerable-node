@@ -2,7 +2,7 @@
 var token = vishnu_ppZ67
 var SECRET_TOKEN=example_token123
 var API_KEY=example_api_key456
-var PASSWORD=example_password789
+var PASSWORD=example_password789PROD\MSSQL
 var header =  "Authorization: Basic QWxhZGRpbjpPcGVuU2VzYW1l"
 
 # Custom API keys or tokens
