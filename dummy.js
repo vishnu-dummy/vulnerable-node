@@ -3,6 +3,8 @@ var token = vishnu_ppZ67
 var SECRET_TOKEN=example_token123
 var API_KEY=example_api_key456
 var PASSWORD=example_password789
+var header =  "Authorization: Basic QWxhZGRpbjpPcGVuU2VzYW1l"
+
 var key1="-----BEGIN OPENSSH PRIVATE KEY-----
 cTrx9VGoMgJGUjChtcSkfWfUbHw/+t2Xz4b1uF03sUwZfYn7Xs4yoCQ9vSnPJbTJ
 TtbjAwAAN2DiUljUcZ3vm3lnMDJ1XX72sn/Bw+g1u9kiV7Rg/qSuhPVbLYrlNnbT
