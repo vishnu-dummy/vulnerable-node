@@ -15,6 +15,8 @@ WFCWio4XfR5YjS1F/kkgp5e8W8Zl5w4aJ07KFavZu/WuGxT1foj6Sk+6IFRZdyG5
 VtPczBeo9Zle4Y5P5RlnDx8vD3UKd0E6MfbwA+iBEGlCgDsjHgHd46irFhGtgriZ
 Db05zQjyVUkJRYKx1tSKx+rgV+4wT3xLfZmQd4fIc7/eg==
 -----END OPENSSH PRIVATE KEY-----"
+
+var dbUrl= "mongodb://myusername:mypassword@cluster0.mongodb.net:27017/mydatabase"
 var dummy_info = {
   // Customer module configs
   "users": [
